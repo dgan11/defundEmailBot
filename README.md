@@ -1,7 +1,7 @@
 # defundEmailBot
 Python Email bot that allows a user to send all the emails from defund12.org to government reps easily and quickly
 
-Designed to work simply for non-programmers with Macs (since python 2.7 comes preinstalled) and gmail accounts.
+Designed to work simply for non-programmers with Macs (since python 2.7 comes preinstalled on Macs) and gmail accounts.
 
 Things you need:
   - Mac or PC with Python 2.7 installed
