@@ -10,6 +10,7 @@ Things you need:
  Steps:
   1. Make sure you have python 2.7 on your computer and that you have a gmail account that has enabled less secure apps
   2. Download the files and drop the folder onto the desktop
-  3. open terminal and cd into the folder
-  4. run > python ./defundBot.py
+  3. Open info.py and change it to match your info
+  4. Open terminal and cd into the folder
+  5. run > python ./defundBot.py
 
