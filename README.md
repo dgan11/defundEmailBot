@@ -16,3 +16,6 @@ Things you need:
   4. Open terminal and cd into the folder
   5. run > python ./defundBot.py
 
+# What it looks Like
+![Landing Page](https://github.com/dgan11/defundEmailBot/blob/master/images/start.png)
+![Instructions](https://github.com/dgan11/defundEmailBot/blob/master/images/instructions.png)
